@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # === Replace below with your data ===
-BOT_TOKEN = "8242428419:AAF4RzBlBKK2Y0skYTgZCx96Bvbmz9Ifoyc"   # <--- Replace safely, don’t share publicly
+BOT_TOKEN = "8242428419:AAGwULBvgPvK70PhxjH3AHU5Kx1qix3y1to"   # <--- Replace safely, don’t share publicly
 
 SBI_QR_URL = "https://your-sbi-qr-image-link.com/sbi_qr.jpg"
 KOTAK_QR_URL = "https://your-kotak-qr-image-link.com/kotak_qr.jpg"
